@@ -1,2 +1,1 @@
-# surface-go-ubuntu-wifi-repair-tool
-A simple tool to repair the wifi on ubuntu with surface go hardware
+this is a tool used to repair the network driver on a surface go on ubuntu based linux distros.
