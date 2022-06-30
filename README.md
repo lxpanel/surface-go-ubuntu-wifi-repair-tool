@@ -7,5 +7,5 @@ this on a surface go 1).
 In the case that the wifi stops working:
 1. open terminal
 2. ``cd`` to where ever you stored this folder
-3. if needed do ``chmod u+x wifi_repair.sh``
+3. if needed, do ``chmod u+x wifi_repair.sh``
 4. ``./wifi_repair.sh``
